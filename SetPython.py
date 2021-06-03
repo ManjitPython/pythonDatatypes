@@ -38,6 +38,6 @@ print(setA)
 # setA
 # setA.clear()
 # print(setA)
-#
 # b = set([44,55,44,66,55])
 # print(list(b))
+print('changed')
